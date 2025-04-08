@@ -106,3 +106,6 @@ A secure link-locking platform that gives you control over who can access your U
 
 Thanks for checking out LockYoLinks! 🔐
 
+## ISSUES!
+Cant send using your own emails in contact page, resend api function error on my side --use onboarding@resend.dev for testing
+
